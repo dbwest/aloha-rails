@@ -7128,7 +7128,7 @@ body.x-body-masked .x-window-plain .x-window-mc {
 	-webkit-border-top-right-radius: 3px;
 	border-top-left-radius: 3px;
 	border-top-right-radius: 3px;
-	background: url(../img/grabhandle.png) no-repeat scroll center 5px rgba(0, 0, 0, 0.4);
+	background: url(/img/grabhandle.png) no-repeat scroll center 5px rgba(0, 0, 0, 0.4);
 }
 .aloha-floatingmenu:hover .aloha-floatingmenu-pin {
 	display: block;
@@ -7171,7 +7171,7 @@ button.aloha-button {
 	background: url(../img/base.png) no-repeat !important;
 }
 button.aloha-button-big {
-	background: url(../img/base-big.png) no-repeat !important;
+	background: url(/img/base-big.png) no-repeat !important;
 }
 button.aloha-button-b {
 	background-position: 0px 0px;
@@ -7201,10 +7201,10 @@ button.aloha-button-ol {
 	background-position: -272px 0px !important;
 }
 button.aloha-button-indent-list {
-	background-image: url(../img/text_indent.png) !important;
+	background-image: url(/img/text_indent.png) !important;
 }
 button.aloha-button-outdent-list {
-	background-image: url(../img/text_indent_remove.png) !important;
+	background-image: url(/img/text_indent_remove.png) !important;
 }
 button.aloha-button-a {
 	background-position: -288px 0px !important;
